@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!+👋;Aspiring+AWS+Cloud+Data+Engineer;Python+%7C+SQL+%7C+Kafka+%7C+PySpark+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!+👋;Aspiring+Data+Engineer)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 - 🔭 Aspiring **AWS Cloud Data Engineer**
