@@ -14,7 +14,7 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats
+## <img src="https://cdn.simpleicons.org/github/white" width="25"/> GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight)
