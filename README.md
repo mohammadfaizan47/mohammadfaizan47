@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - Currently in learning phase of Data Engineering
-- Here I put all my personal learnings so anyone can learn the tools from a beginner perspective.
+- Here I put all my personal learnings so anyone can learn the tools from a beginner's perspective.
 - I have build pipelines like ETL,ELT, Streaming, Batch-time, Scheduled-time and on Medallion Architecture also.
 
 ## 🛠 Tech Stack
