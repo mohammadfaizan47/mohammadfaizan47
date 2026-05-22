@@ -15,4 +15,4 @@
 
 ## 🥧 Languages Pie Chart
 
-![Top Languages](https://github-readme-stats-mohammadfaizan47.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true)
