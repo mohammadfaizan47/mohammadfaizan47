@@ -13,6 +13,6 @@
 ## <img src="https://cdn.simpleicons.org/github/white" width="25"/> GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight)
 
-## 🥧 Languages Pie Chart
+## Top Languages
 
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true)
