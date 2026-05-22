@@ -15,6 +15,4 @@
 
 ## 🥧 Languages Pie Chart
 
-<a href="https://github.com/mohammadfaizan47">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
