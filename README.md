@@ -17,6 +17,6 @@
 
 <div style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; display: inline-block;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true)
 
 </div>
