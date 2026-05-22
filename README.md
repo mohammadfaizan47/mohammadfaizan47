@@ -13,4 +13,8 @@
 ## <img src="https://cdn.simpleicons.org/github/white" width="25"/> GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=tokyonight&hide_border=true)
+## 🥧 Languages Pie Chart
+
+<a href="https://github.com/mohammadfaizan47">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
