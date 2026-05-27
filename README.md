@@ -11,6 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40"/> <img src="https://cdn.simpleicons.org/delta/003366" width="40"/><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/> 
 
 ## <img src="https://cdn.simpleicons.org/github/white" width="25"/> GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadfaizan47&color=blue&style=flat)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight)
 
 ## Top Languages
