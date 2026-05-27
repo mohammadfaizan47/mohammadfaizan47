@@ -20,3 +20,8 @@
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=false)
 
 </div>
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat)
