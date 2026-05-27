@@ -22,6 +22,8 @@
 </div>
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
