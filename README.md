@@ -12,9 +12,6 @@
 
 ## <img src="https://cdn.simpleicons.org/github/white" width="25"/> GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight)
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadfaizan47&color=blue&style=flat)
 
 ## Top Languages
 
