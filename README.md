@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!+👋🏻;Aspiring+Data+Engineer)
+<img src="terminator_1.gif" align="right" width="180">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!+👋;Aspiring+Data+Engineer)
 
 ## 👨‍💻 About Me
 - Currently in learning phase of Data Engineering
