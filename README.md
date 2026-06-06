@@ -19,11 +19,10 @@
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=false&hide=jupyter%20notebook&langs_count=6)
 
-</div>
 <div align="center">
 
 *"It's not over until you win"*
-
-~ Les Brown
+<br>
+<span style="padding-left: 40px;">~ Les Brown</span>
 
 </div>
