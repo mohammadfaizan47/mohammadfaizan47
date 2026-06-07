@@ -1,6 +1,6 @@
 <img src="terminator_1.gif" align="right" width="180">
 
-(<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:6EC6FF,100:8B5A2B&height=220&section=header&text=Aspiring%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mohammad%20Faizan%20%7C%20mohammadfaizan47&descAlignY=60&descSize=16&descColor=eaf6ff&animation=fadeIn&fontAlign=50&font=Orbitron" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:6EC6FF,100:8B5A2B&height=220&section=header&text=Aspiring%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mohammad%20Faizan%20%7C%20mohammadfaizan47&descAlignY=60&descSize=16&descColor=eaf6ff&animation=fadeIn&fontAlign=50&font=Orbitron" />
 
 ## 👨‍💻 About Me
 
