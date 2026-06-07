@@ -1,30 +1,87 @@
-<img src="terminator_1.gif" align="right" width="180">
+```md
+<!-- 🌌 SPACE BACKGROUND BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammadfaizan47/mohammadfaizan47/main/space_banner.gif" width="100%" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!+👋;Aspiring+Data+Engineer)
+<!-- 🚀 SPACESHIP GIF -->
+<img align="right" alt="Spaceship" width="220" src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif">
 
-## 👨‍💻 About Me
-- Currently in learning phase of Data Engineering
-- Here I put all my personal learnings so anyone can learn the tools from a beginner's perspective.
-- I have build pipelines like ETL,ELT, Streaming, Batch-time, Scheduled-time and on Medallion Architecture also.
-- Worked on upto 6 Million+ records for Data Pipeline.
-- Cloud Integration on Projects also done.
+# 👋 Hi, I'm Mohammad Faizan
 
-## 🛠 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40"/> <img src="https://cdn.simpleicons.org/delta/003366" width="40"/><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/> 
+<h3 align="center">🚀 Aspiring Data Engineer 🌌</h3>
 
-## <img src="https://cdn.simpleicons.org/github/white" width="25"/> GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight)
+<!-- ✨ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+I'm+Faizan!;Aspiring+Data+Engineer;Building+ETL+Pipelines;Streaming+%7C+Batch+Processing;Cloud+and+Big+Data+Enthusiast" />
+</p>
 
-## Top Languages
+---
 
-<div style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; display: inline-block;">
+# 🪐 About Me
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=donut&theme=tokyonight&hide_border=false&hide=jupyter%20notebook&langs_count=6)
+🌌 Currently learning Data Engineering  
+🚀 Building ETL / ELT Pipelines  
+💫 Working with Batch & Streaming Systems  
+☁️ Cloud Integration Projects  
+📊 Worked on Million+ records pipelines  
 
-<div align="center">
+---
 
-*"It's not over until you win"*
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ Les Brown
+# 🌠 Tech Stack
 
-</div>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+
+</p>
+
+---
+
+# 🌌 Galaxy Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfaizan47&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=FFFFFF">
+</p>
+
+---
+
+# 🚀 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaizan47&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🛰️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadfaizan47&label=Space+Visitors&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<!-- 🌠 PLANETS -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%">
+</p>
+```
