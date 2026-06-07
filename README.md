@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a4e,100:0d1b2a&height=200&section=header&text=Aspiring%20Data%20Engineer&fontSize=42&fontColor=58e6d9&fontAlignY=38&desc=Mohammad%20Faizan%20%7C%20mohammadfaizan47&descAlignY=60&descSize=16&descColor=a0b0dd&animation=fadeIn&fontAlign=50&font=Orbitron" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:6EC6FF,100:8B5A2B&height=220&section=header&text=Aspiring%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mohammad%20Faizan%20%7C%20mohammadfaizan47&descAlignY=60&descSize=16&descColor=eaf6ff&animation=fadeIn&fontAlign=50&font=Orbitron" />
 
 </div>
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=58E6D9&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer+🤖;Building+Modern+Data+Pipelines;ETL+%7C+Streaming+%7C+Cloud" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer+🤖;Building+Modern+Data+Pipelines;ETL+%7C+Streaming+%7C+Cloud" />
 
 </div>
 
@@ -15,13 +15,11 @@
 <tr>
 <td>
 
-<!-- SPACE BACKGROUND README CARD START -->
+<div style="background: linear-gradient(to bottom, #87CEEB 0%, #6EC6FF 55%, #8B5A2B 100%); border-radius: 14px; padding: 3px;">
 
-<div style="background-image: url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1400&q=80'); background-size: cover; background-position: center; border-radius: 12px; padding: 2px;">
+<div style="background: rgba(10,15,30,0.78); border-radius: 12px; padding: 28px 32px; color: #ffffff; font-family: monospace;">
 
-<div style="background: rgba(5,5,25,0.78); border-radius: 11px; padding: 28px 32px; color: #e0e8ff; font-family: monospace;">
-
-## <span style="color:#58e6d9">🧑‍💻 About Me</span>
+## <span style="color:#87CEEB">🧑‍💻 About Me</span>
 
 - Currently in learning phase of Data Engineering
 - I put all my personal learnings so anyone can learn the tools from a beginner's perspective.
@@ -31,7 +29,7 @@
 
 ---
 
-## <span style="color:#58e6d9">🛠 Tech Stack</span>
+## <span style="color:#87CEEB">🛠 Tech Stack</span>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -48,18 +46,16 @@
 
 ---
 
-## <span style="color:#58e6d9">📊 GitHub Stats</span>
+## <span style="color:#87CEEB">📊 GitHub Stats</span>
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58e6d9&icon_color=a855f7&text_color=b8c8ef)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=87CEEB&icon_color=8B5A2B&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight&hide_border=true&background=00000000&ring=58e6d9&fire=a855f7&currStreakLabel=58e6d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammadfaizan47&theme=tokyonight&hide_border=true&background=00000000&ring=87CEEB&fire=8B5A2B&currStreakLabel=87CEEB)
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58e6d9&text_color=b8c8ef&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=87CEEB&text_color=ffffff&hide=jupyter%20notebook)
 
 </div>
 </div>
-
-<!-- SPACE BACKGROUND README CARD END -->
 
 </td>
 </tr>
@@ -68,6 +64,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a1a4e,100:0a0a2e&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5A2B,50:A97142,100:87CEEB&height=100&section=footer&animation=fadeIn" />
 
 </div>
