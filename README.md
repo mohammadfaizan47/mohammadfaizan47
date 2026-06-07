@@ -1,37 +1,32 @@
+<!-- ██████╗  ██████╗ ████████╗    ██╗   ██╗███╗   ██╗██╗████████╗ -->
+<!-- ██╔══██╗██╔═══██╗╚══██╔══╝    ██║   ██║████╗  ██║██║╚══██╔══╝ -->
+<!-- ██████╔╝██║   ██║   ██║       ██║   ██║██╔██╗ ██║██║   ██║    -->
+<!-- ██╔══██╗██║   ██║   ██║       ██║   ██║██║╚██╗██║██║   ██║    -->
+<!-- ██████╔╝╚██████╔╝   ██║       ╚██████╔╝██║ ╚████║██║   ██║    -->
+<!-- ╚═════╝  ╚═════╝    ╚═╝        ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝   -->
+
 <div align="center">
 
-```text
-        ┌─────────────────────────────────────────────────┐
-        │                                                 │
-        │   ███████╗ ██████╗  █████╗ ██████╗ ██╗ ██╗ ██╗  │
-        │   ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔╝ ╚██╗ │
-        │   ███████╗ ██████╔╝███████║██████╔╝█████╔╝  ╚██╗│
-        │   ╚════██║ ██╔═══╝ ██╔══██║██╔══██╗██╔═██╗  ██╔╝│
-        │   ███████║ ██║     ██║  ██║██║  ██║██║  ██╗██╔╝ │
-        │   ╚══════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  │
-        │                                                 │
-        │                 S P A R K Y                     │
-        │                                                 │
-        │   ◉ UNIT: MOHAMMAD FAIZAN                       │
-        │   ◉ CLASS: DATA ENGINEER                        │
-        │   ◉ NEURAL CORE: [ ACTIVE ]                     │
-        │   ◉ SERVO STATUS: ALL SYSTEMS NOMINAL           │
-        │                                                 │
-        │  [CPU]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 98%  [ONLINE]       │
-        │  [MEM]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 72%                 │
-        │  [PWR]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% ⚡              │
-        │                                                 │
-        └─────────────────────────────────────────────────┘
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Booting+unit+Sparky...+OK;%5BSYS%5D+Loading+data+engineering+modules...+OK;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...+OK;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Sparky+%7C+Data+Engineer;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/mohammadfaizan47?label=Followers&style=for-the-badge&color=00FF41&labelColor=0d0d0d&logo=github)](https://github.com/mohammadfaizan47)
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadfaizan47&style=for-the-badge&color=00FF41&label=UNIT+SCANS&abbreviated=true)
-
-</div>
+        ┌────────────────────────────────────────────────────────────┐
+        │ ███████╗   ██████╗    █████╗   ██████╗   ██╗  ██╗ ██╗   ██╗│
+        │ ██╔════╝   ██╔══██╗  ██╔══██╗  ██╔══██╗  ██║ ██╔╝ ╚██╗ ██╔╝│
+        │ ███████╗   ██████╔╝  ███████║  ██████╔╝  █████╔╝   ╚████╔╝ │
+        │ ╚════██║   ██╔═══╝   ██╔══██║  ██╔══██╗  ██╔═██╗    ╚██╔╝  │ 
+        │ ███████║   ██║       ██║  ██║  ██║  ██║  ██║  ██╗    ██║   │
+        │ ╚══════╝   ╚═╝       ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝    ╚═╝   │                                             
+        │                                                            │
+        │        ◉ UNIT: MOHAMMAD FAIZAN                            │ 
+        │        ◉ CLASS: DATA ENGINEER                             │
+        │        ◉ NEURAL CORE: [ ACTIVE ]                          │
+        │        ◉ SERVO STATUS: ALL SYSTEMS NOMINAL                │
+        │                                                            │  
+        │       [CPU]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 98%  [ONLINE]              │
+        │       [MEM]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 72%                        │
+        │       [PWR]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% ⚡                    │
+        │                                                             │
+        └─────────────────────────────────────────────────────────────┘
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+unit+FAIZAN...+OK;%5BSYS%5D+Loading+data+engineering+modules...+OK;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...+OK;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Data+Engineer+%7C+Pipeline+Architect;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
 
@@ -116,6 +111,55 @@ unit.uplink_status()
 
 ---
 
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  ⚙  MISSION LOGS — /var/log/pipelines.log  ⚙            │
+│  > PARSE: ./mission_control --list --status              │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### `// ACTIVE MISSION DEPLOYMENTS`
+
+```
+┌─[MISSION_01]──────────────────────────────────────────────────────┐
+│  ◈ CODENAME  : REAL-TIME STOCK MARKET STREAMER                    │
+│  ◈ SERVOS    : AlphaVantage → Kafka → PySpark Streaming → ΔLake  │
+│  ◈ PLATFORM  : Confluent Cloud ✦ Databricks                       │
+│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
+└───────────────────────────────────────────────────────────────────┘
+
+┌─[MISSION_02]──────────────────────────────────────────────────────┐
+│  ◈ CODENAME  : FINANCIAL FRAUD DETECTION — ELT UNIT               │
+│  ◈ SERVOS    : AWS S3 → Glue → Athena                             │
+│  ◈ PLATFORM  : Amazon Web Services                                │
+│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
+└───────────────────────────────────────────────────────────────────┘
+
+┌─[MISSION_03]──────────────────────────────────────────────────────┐
+│  ◈ CODENAME  : HEALTHCARE ANALYTICS WAREHOUSE                     │
+│  ◈ SERVOS    : Snowflake (Star Schema) ✦ AWS S3                   │
+│  ◈ PLATFORM  : Snowflake Cloud                                    │
+│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
+└───────────────────────────────────────────────────────────────────┘
+
+┌─[MISSION_04]──────────────────────────────────────────────────────┐
+│  ◈ CODENAME  : WEATHER DATA PIPELINE                              │
+│  ◈ SERVOS    : AWS Glue + S3 + Python                             │
+│  ◈ PLATFORM  : Amazon Web Services                                │
+│  ◈ INTEGRITY : ████████████████░░░░░░░░  68%  🔧 CALIBRATING...  │
+└───────────────────────────────────────────────────────────────────┘
+
+┌─[MISSION_05]──────────────────────────────────────────────────────┐
+│  ◈ CODENAME  : E-COMMERCE ETL BATCH ENGINE                        │
+│  ◈ SERVOS    : Databricks + Delta Lake                            │
+│  ◈ PLATFORM  : Databricks                                         │
+│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
+└───────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
