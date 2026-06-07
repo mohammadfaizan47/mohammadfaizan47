@@ -1,94 +1,236 @@
+<!-- ██████╗ ███████╗ █████╗ ██████╗  ███╗   ███╗███████╗ -->
+<!-- ██╔══██╗██╔════╝██╔══██╗██╔══██╗ ████╗ ████║██╔════╝ -->
+<!-- ██████╔╝█████╗  ███████║██║  ██║ ██╔████╔██║█████╗   -->
+<!-- ██╔══██╗██╔══╝  ██╔══██║██║  ██║ ██║╚██╔╝██║██╔══╝   -->
+<!-- ██║  ██║███████╗██║  ██║██████╔╝ ██║ ╚═╝ ██║███████╗ -->
+<!-- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝  ╚═╝     ╚═╝╚══════╝ -->
+
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  BOOTING...  USER: MOHAMMAD FAIZAN
-  ROLE: DATA ENGINEER  |  STATUS: ONLINE
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ INITIALIZING SYSTEM...                                 █
+█ USER: MOHAMMAD FAIZAN                                  █
+█ ROLE: DATA ENGINEER                                    █
+█ STATUS: [ ONLINE ]  ████████████████████ 100%          █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+Data+Engineer;%24+location+%E2%86%92+Jaipur%2C+Rajasthan+%F0%9F%87%AE%F0%9F%87%B3;%24+status+%E2%86%92+Open+to+Internships;%24+mission+%E2%86%92+Build+pipelines+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%24+whoami+--+Data+Engineer;%24+status+--+Actively+Building+Pipelines;%24+location+--+Jaipur%2C+Rajasthan%2C+IN;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadfaizan47)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/mohammadfaizan47)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-![Views](https://komarev.com/ghpvc/?username=mohammadfaizan47&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/mohammadfaizan47?label=Followers&style=for-the-badge&color=00FF41&labelColor=0d0d0d&logo=github)](https://github.com/mohammadfaizan47)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadfaizan47&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-I'm a **BCA graduate** from Jaipur building end-to-end data pipelines on AWS, Databricks, Kafka, and Snowflake.
-I care about clean architecture, reliable ingestion, and data that teams can actually trust.
+```
+╔══════════════════════════════════════════════════════╗
+║  > EXECUTING: system_profile.sh                      ║
+║  > OUTPUT:                                           ║
+╚══════════════════════════════════════════════════════╝
+```
 
-> *"Move data. Clean it. Trust it. Ship it."*
+</div>
+
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name       = "Mohammad Faizan"
+        self.alias      = "mohammadfaizan47"
+        self.location   = "Jaipur, Rajasthan 🇮🇳"
+        self.education  = "BCA Graduate"
+        self.role       = "Data Engineer (Fresher)"
+        self.focus      = ["Data Pipelines", "Cloud ETL", "Stream Processing"]
+
+    def current_mission(self):
+        return {
+            "building"   : "Scalable data pipelines on AWS & Databricks",
+            "learning"   : "Advanced SQL | PySpark | Kafka | Snowflake",
+            "seeking"    : "Data Engineering Internship",
+            "motto"      : "Build. Break. Fix. Repeat."
+        }
+
+me = DataEngineer()
+print(me.current_mission())
+```
 
 ---
 
-## `$ ls ./tech-stack`
+<div align="center">
 
-| | |
+```
+╔══════════════════════════════════════════════════════╗
+║  > LOADING: tech_stack.json                          ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### `// CORE STACK`
+
+<div align="center">
+
+| Layer | Tech |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Processing** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) |
-| **Warehouse** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
----
-
-## `$ cat ./projects.md`
-
-**Real-Time Stock Market Streaming Pipeline**
-`AlphaVantage → Kafka → PySpark Streaming → Delta Lake`
-Live pipeline ingesting 5 stock symbols, streaming via Confluent Kafka, processed on Databricks, stored in Delta Lake.
-
-**Cloud ELT Pipeline — Financial Fraud Detection**
-`AWS S3 → Glue → Athena`
-Serverless ELT on AWS to process transaction data and surface fraud patterns via Athena queries.
-
-**Data Warehouse — Healthcare Analytics**
-`Snowflake + AWS S3 | Star Schema`
-3-layer warehouse (Raw → Staging → Analytics) with FACT_ADMISSIONS and dimension tables for clean analytical reporting.
-
-**ETL Batch Pipeline — E-Commerce Sales**
-`Databricks + Delta Lake`
-Batch ETL processing sales data with Delta Lake for reliable, version-controlled storage.
-
-**Weather Data Pipeline** *(building)*
-`AWS Glue + S3 + Python`
-Automated pipeline fetching, transforming and storing weather data on AWS.
-
----
-
-## `$ cat ./stats.log`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mohammadfaizan47&show_icons=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&border_color=30363d&count_private=true&hide_border=false" />
-
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&border_color=30363d&hide=jupyter+notebook&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaizan47&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00FF41&border=30363d" />
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00FF41) ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00FF41) |
+| **Processing** | ![PySpark](https://img.shields.io/badge/PySpark-0d0d0d?style=flat-square&logo=apachespark&logoColor=00FF41) ![Databricks](https://img.shields.io/badge/Databricks-0d0d0d?style=flat-square&logo=databricks&logoColor=00FF41) |
+| **Streaming** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-0d0d0d?style=flat-square&logo=apachekafka&logoColor=00FF41) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonaws&logoColor=00FF41) ![S3](https://img.shields.io/badge/S3-0d0d0d?style=flat-square&logo=amazons3&logoColor=00FF41) ![Glue](https://img.shields.io/badge/Glue-0d0d0d?style=flat-square&logo=amazonaws&logoColor=00FF41) ![Athena](https://img.shields.io/badge/Athena-0d0d0d?style=flat-square&logo=amazonaws&logoColor=00FF41) |
+| **Warehouse** | ![Snowflake](https://img.shields.io/badge/Snowflake-0d0d0d?style=flat-square&logo=snowflake&logoColor=00FF41) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0d0d0d?style=flat-square&logo=delta&logoColor=00FF41) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=00FF41) |
 
 </div>
 
 ---
 
-## `$ tail -f ./now.log`
+<div align="center">
 
 ```
-[+] Solving SQL daily on StrataScratch — Window Functions next
-[+] Finishing the Weather Pipeline on AWS Glue
-[+] Open to DE internships in Jaipur · Noida · Gurugram
+╔══════════════════════════════════════════════════════╗
+║  > SCANNING: /projects --list --verbose              ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### `// DEPLOYED PIPELINES`
+
+```
+[PROJECT_01] ██████████████████████████ ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NAME     : Real-Time Stock Market Streaming Pipeline
+ STACK    : AlphaVantage → Kafka → PySpark Streaming → Delta Lake
+ PLATFORM : Confluent Cloud + Databricks
+ STATUS   : ✅ DEPLOYED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[PROJECT_02] ██████████████████████████ ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NAME     : Cloud ELT Pipeline — Financial Fraud Detection
+ STACK    : AWS S3 → Glue → Athena
+ STATUS   : ✅ DEPLOYED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[PROJECT_03] ██████████████████████████ ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NAME     : Data Warehouse — Healthcare Analytics
+ STACK    : Snowflake (Star Schema) + AWS S3
+ STATUS   : ✅ DEPLOYED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[PROJECT_04] ████████████████████░░░░░░ IN PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NAME     : Weather Data Pipeline
+ STACK    : AWS Glue + S3 + Python
+ STATUS   : 🔧 BUILDING...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[PROJECT_05] ██████████████████████████ ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NAME     : ETL Batch Pipeline — E-Commerce Sales
+ STACK    : Databricks + Delta Lake
+ STATUS   : ✅ DEPLOYED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
 <div align="center">
-<sub>Available for Data Engineering Internships — Let's connect!</sub>
+
+```
+╔══════════════════════════════════════════════════════╗
+║  > FETCHING: github_stats.api                        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide=jupyter+notebook&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaizan47&theme=matrix&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&sideNums=00FF41&currStreakNum=00FF41&stroke=00FF41&border=00FF41" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  > RUNNING: activity_graph --year=2025               ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![Faizan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadfaizan47&theme=high-contrast&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false)](https://github.com/mohammadfaizan47)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  > SYSTEM LOG: current_objectives.txt                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+$ cat objectives.txt
+
+[*] Mastering Advanced SQL on StrataScratch ....... [IN PROGRESS]
+    └── Phase 2: Joins, Aggregations, Null Handling ✅
+    └── Phase 3: Window Functions, Ranking ......... ⏳
+
+[*] Building Production-Grade Pipelines ........... [IN PROGRESS]
+    └── Weather Pipeline (AWS Glue) ................ ⏳
+    └── Healthcare DWH (Snowflake + Streamlit) ..... ⏳
+
+[*] Open to Data Engineering Internships .......... [SEEKING]
+    └── Locations: Jaipur | Noida | Gurugram
+    └── Status: AVAILABLE IMMEDIATELY
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  > ESTABLISHING: connection.sh                       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0d0d)](https://linkedin.com/in/mohammadfaizan47)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0d0d)](https://github.com/mohammadfaizan47)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d)](mailto:your@email.com)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "Data is the new oil. Pipelines are the rigs."     ║
+║                                 — Mohammad Faizan    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+```
+> SESSION TERMINATED.
+> PRESS ANY KEY TO RECONNECT...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=0d0d0d"/>
+
 </div>
