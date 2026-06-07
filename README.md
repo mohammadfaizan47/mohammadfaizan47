@@ -112,16 +112,6 @@ unit.uplink_status()
 
 ---
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  ⚙  MISSION LOGS — /var/log/pipelines.log  ⚙            │
-│  > PARSE: ./mission_control --list --status              │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
