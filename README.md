@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:6EC6FF,100:8B5A2B&height=220&section=header&text=Aspiring%20Data%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mohammad%20Faizan%20%7C%20mohammadfaizan47&descAlignY=60&descSize=16&descColor=eaf6ff&animation=fadeIn&fontAlign=50&font=Orbitron" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:6EC6FF,100:8B5A2B&height=260&section=header&text=%20&fontSize=42&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer+🤖;Building+Modern+Data+Pipelines;ETL+%7C+Streaming+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer+🤖;Building+Modern+Data+Pipelines;ETL+%7C+Streaming+%7C+Cloud" />
 
 </div>
 
