@@ -123,45 +123,6 @@ unit.uplink_status()
 
 </div>
 
-### `// ACTIVE MISSION DEPLOYMENTS`
-
-```
-┌─[MISSION_01]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : REAL-TIME STOCK MARKET STREAMER                    │
-│  ◈ SERVOS    : AlphaVantage → Kafka → PySpark Streaming → ΔLake  │
-│  ◈ PLATFORM  : Confluent Cloud ✦ Databricks                       │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_02]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : FINANCIAL FRAUD DETECTION — ELT UNIT               │
-│  ◈ SERVOS    : AWS S3 → Glue → Athena                             │
-│  ◈ PLATFORM  : Amazon Web Services                                │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_03]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : HEALTHCARE ANALYTICS WAREHOUSE                     │
-│  ◈ SERVOS    : Snowflake (Star Schema) ✦ AWS S3                   │
-│  ◈ PLATFORM  : Snowflake Cloud                                    │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_04]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : WEATHER DATA PIPELINE                              │
-│  ◈ SERVOS    : AWS Glue + S3 + Python                             │
-│  ◈ PLATFORM  : Amazon Web Services                                │
-│  ◈ INTEGRITY : ████████████████░░░░░░░░  68%  🔧 CALIBRATING...  │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_05]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : E-COMMERCE ETL BATCH ENGINE                        │
-│  ◈ SERVOS    : Databricks + Delta Lake                            │
-│  ◈ PLATFORM  : Databricks                                         │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
