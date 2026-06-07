@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="YOUR_SPACE_IMAGE_LINK_HERE" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
 </div>
 
-<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" align="right" width="220">
+<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" align="right" width="180">
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!👋;Aspiring+Data+Engineer)
 
@@ -20,6 +20,8 @@
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> 
@@ -30,6 +32,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
 <img src="https://seeklogo.com/images/S/snowflake-logo-B46CEAA9E5-seeklogo.com.png" width="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40"/>
+
+</p>
 
 ---
 
