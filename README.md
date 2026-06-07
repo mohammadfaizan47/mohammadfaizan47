@@ -1,10 +1,8 @@
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
-
-<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" align="right" width="220">
+<img src="terminator_1.gif" align="right" width="180">
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!👋;Aspiring+Data+Engineer)
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - Currently in learning phase of Data Engineering
 - Here I put all my personal learnings so anyone can learn the tools from a beginner's perspective.
@@ -14,35 +12,22 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Snowflake_Logo.svg" width="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
+<img src="https://seeklogo.com/images/S/snowflake-logo-B46CEAA9E5-seeklogo.com.png" width="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40"/>
-
-</p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -50,18 +35,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaizan47&theme=tokyonight&hide_border=true" width="48%">
 
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfaizan47&theme=react-dark&hide_border=true">
-</p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%">
 </p>
