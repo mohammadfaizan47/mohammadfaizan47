@@ -36,3 +36,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaizan47&theme=tokyonight&hide_border=true" width="48%">
 
 </p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a1a4e,100:0a0a2e&height=100&section=footer&animation=fadeIn" />
+</div>
