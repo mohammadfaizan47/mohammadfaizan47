@@ -1,4 +1,4 @@
-<img src="terminator_3.gif" align="right" width="180">
+<img src="terminator_1.gif" align="right" width="180">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=500&lines=Hi+I'm+Faizan!+👋;Aspiring+Data+Engineer)
 
