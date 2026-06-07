@@ -8,24 +8,25 @@
 <div align="center">
 
 ```
-        ┌────────────────────────────────────────────────────────────┐
-        │ ███████╗   ██████╗    █████╗   ██████╗   ██╗  ██╗ ██╗   ██╗│
-        │ ██╔════╝   ██╔══██╗  ██╔══██╗  ██╔══██╗  ██║ ██╔╝ ╚██╗ ██╔╝│
-        │ ███████╗   ██████╔╝  ███████║  ██████╔╝  █████╔╝   ╚████╔╝ │
-        │ ╚════██║   ██╔═══╝   ██╔══██║  ██╔══██╗  ██╔═██╗    ╚██╔╝  │ 
-        │ ███████║   ██║       ██║  ██║  ██║  ██║  ██║  ██╗    ██║   │
-        │ ╚══════╝   ╚═╝       ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝    ╚═╝   │                                             
-        │                                                            │
-        │        ◉ UNIT: MOHAMMAD FAIZAN                            │ 
-        │        ◉ CLASS: DATA ENGINEER                             │
-        │        ◉ NEURAL CORE: [ ACTIVE ]                          │
-        │        ◉ SERVO STATUS: ALL SYSTEMS NOMINAL                │
-        │                                                            │  
-        │       [CPU]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 98%  [ONLINE]              │
-        │       [MEM]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 72%                        │
-        │       [PWR]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% ⚡                    │
-        │                                                             │
-        └─────────────────────────────────────────────────────────────┘
+        ┌─────────────────────────────────────────────────┐
+        │                                                 │
+        │        ██████╗  ██████╗ ████████╗              │
+        │        ██╔══██╗██╔═══██╗╚══██╔══╝              │
+        │        ██████╔╝██║   ██║   ██║                 │
+        │        ██╔══██╗██║   ██║   ██║                 │
+        │        ██████╔╝╚██████╔╝   ██║                 │
+        │        ╚═════╝  ╚═════╝    ╚═╝   v2.4.7z        │
+        │                                                 │
+        │   ◉ UNIT: MOHAMMAD FAIZAN                       │
+        │   ◉ CLASS: DATA ENGINEER                        │
+        │   ◉ NEURAL CORE: [ ACTIVE ]                     │
+        │   ◉ SERVO STATUS: ALL SYSTEMS NOMINAL           │
+        │                                                 │
+        │  [CPU]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 98%  [ONLINE]      │
+        │  [MEM]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 72%                 │
+        │  [PWR]▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% ⚡              │
+        │                                                 │
+        └─────────────────────────────────────────────────┘
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+unit+FAIZAN...+OK;%5BSYS%5D+Loading+data+engineering+modules...+OK;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...+OK;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Data+Engineer+%7C+Pipeline+Architect;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
