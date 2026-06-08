@@ -134,7 +134,9 @@ unit.uplink_status()
 ```
 
 [![Faizan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadfaizan47&theme=high-contrast&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false)](https://github.com/mohammadfaizan47)
+<div style="border: 1px solid #00FF41; box-shadow: 0 0 10px #00FF41; padding: 8px; background-color: #0d0d0d;">
 <img src="https://ghchart.rshah.org/39ff14/mohammadfaizan47" alt="Faizan's GitHub Contribution Chart" width="100%"/>
+</div>
 
 </div>
 
