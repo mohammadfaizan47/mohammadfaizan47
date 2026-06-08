@@ -53,13 +53,6 @@
 
 ```python
 class DataEngineer:
-    """
-    ┌─ UNIT SPECIFICATION ──────────────────────────┐
-    │  Model  : FAIZAN-DE-v1.0                      │
-    │  Origin : Jaipur, Rajasthan, Earth-Sector IN  │
-    │  Core   : Data Engineering Neural Module      │
-    └───────────────────────────────────────────────┘
-    """
     def __init__(self):
         self.designation  = "Mohammad Faizan"
         self.unit_id      = "mohammadfaizan47"
