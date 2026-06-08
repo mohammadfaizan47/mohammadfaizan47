@@ -4,7 +4,9 @@
 <!-- ██╔══██╗██║   ██║   ██║       ██║   ██║██║╚██╗██║██║   ██║    -->
 <!-- ██████╔╝╚██████╔╝   ██║       ╚██████╔╝██║ ╚████║██║   ██║    -->
 <!-- ╚═════╝  ╚═════╝    ╚═╝        ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝   -->
-
+<div align="right">
+<img width="1902" height="846" alt="image" src="https://github.com/user-attachments/assets/3d918a15-1119-4aa7-bb0b-93de63b2998f" />
+</div>
 <div align="center">
 
 ```
