@@ -5,7 +5,7 @@
 <!-- ██████╔╝╚██████╔╝   ██║       ╚██████╔╝██║ ╚████║██║   ██║    -->
 <!-- ╚═════╝  ╚═════╝    ╚═╝        ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝   -->
 <div align="right">
-<img src="https://raw.githubusercontent.com/mohammadfaizan47/mohammadfaizan47/main/robot_run.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/mohammadfaizan47/mohammadfaizan47/main/robot_running.gif" width="100%"/>
 </div>
 <div align="center">
 
