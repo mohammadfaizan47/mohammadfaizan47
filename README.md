@@ -55,16 +55,16 @@
 class DataEngineer:
 
     def __init__(self):
-        self.unit_name  = "Mohammad Faizan"
+        self.unit_name    = "Mohammad Faizan"
         self.base         = "Jaipur, Rajasthan 🇮🇳"
         self.primary_role = "Data Engineer"
         self.actuators    = ["Data Pipelines", "Cloud ETL", "Stream Processing"]
 
     def uplink_status(self):
         return {
-            "constructing" : "Fault-tolerant pipelines on AWS & Databricks",
-            "calibrating"  : "Advanced SQL | PySpark | Kafka | Snowflake",
-            "uplink_seek"  : "Data Engineering Internship",
+            "constructing"  : "Fault-tolerant pipelines on AWS & Databricks",
+            "calibrating"   : "Advanced SQL | PySpark | Kafka | Snowflake",
+            "uplink_seek"   : "Data Engineering Internship",
             "core_directive": "Process. Store. Serve. Repeat."
         }
 
