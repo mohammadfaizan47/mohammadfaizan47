@@ -5,7 +5,7 @@
 <!-- ██████╔╝╚██████╔╝   ██║       ╚██████╔╝██║ ╚████║██║   ██║    -->
 <!-- ╚═════╝  ╚═════╝    ╚═╝        ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝   -->
 <div align="right">
-<img src="https://raw.githubusercontent.com/mohammadfaizan47/mohammadfaizan47/main/terminator_1.gif" width="100px"/>
+<img src="https://raw.githubusercontent.com/mohammadfaizan47/mohammadfaizan47/main/terminator_running_1.gif" width="100%"/>
 </div>
 <div align="center">
 
