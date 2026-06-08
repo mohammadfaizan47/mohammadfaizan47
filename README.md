@@ -155,7 +155,11 @@ unit.uplink_status()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0d0d)](https://linkedin.com/in/mohammadfaizan47)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0d0d)](https://github.com/mohammadfaizan47)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d)](mailto:mohammadfaizan0411@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=0d0d0d)](https://leetcode.com/u/MohammadFaizan47/)
+[![StrataScratch](https://img.shields.io/badge/StrataScratch-0d0d0d?style=for-the-badge&logo=databricks&logoColor=00FF41&labelColor=0d0d0d)](https://platform.stratascratch.com/user/MohammadFaizan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d0d0d?style=for-the-badge&logo=hackerrank&logoColor=00FF41&labelColor=0d0d0d)](https://www.hackerrank.com/profile/sparkyop63)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=00FF41&labelColor=0d0d0d)](https://www.kaggle.com/faizansheikh47)
 
 <br/>
 
