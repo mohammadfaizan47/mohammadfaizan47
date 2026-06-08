@@ -107,20 +107,6 @@ unit.uplink_status()
 | `[VERSION_CTRL]` | ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=00FF41) |
 
 </div>
-
----
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  ⚙  MISSION LOGS — /var/log/pipelines.log  ⚙            │
-│  > PARSE: ./mission_control --list --status              │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 <div align="center">
