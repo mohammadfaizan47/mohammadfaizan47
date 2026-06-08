@@ -29,7 +29,7 @@
         └─────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+unit+FAIZAN...+OK;%5BSYS%5D+Loading+data+engineering+modules...+OK;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...+OK;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Data+Engineer+%7C+Pipeline+Architect;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+unit+FAIZAN...;%5BSYS%5D+Loading+data+engineering+modules...;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Data+Engineer+%7C+Pipeline+Architect;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
 
 <br/>
 
@@ -45,14 +45,14 @@
 ```
 ┌──────────────────────────────────────────────────────────┐
 │  ⚙  UNIT DIAGNOSTICS — core_identity.bin  ⚙             │
-│  > EXECUTE: ./boot_profile --verbose --cyborg            │
+│  > EXECUTE: ./boot_profile --verbose                     │
 └──────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ```python
-class CyborgEngineer:
+class DataEngineer:
     """
     ┌─ UNIT SPECIFICATION ──────────────────────────┐
     │  Model  : FAIZAN-DE-v1.0                      │
@@ -64,10 +64,8 @@ class CyborgEngineer:
         self.designation  = "Mohammad Faizan"
         self.unit_id      = "mohammadfaizan47"
         self.base         = "Jaipur, Rajasthan 🇮🇳"
-        self.firmware     = "BCA Graduate — Build 2024"
         self.primary_role = "Data Engineer"
         self.actuators    = ["Data Pipelines", "Cloud ETL", "Stream Processing"]
-        self.threat_level = "ZERO — built to build, not destroy"
 
     def uplink_status(self):
         return {
@@ -77,7 +75,7 @@ class CyborgEngineer:
             "core_directive": "Process. Store. Serve. Repeat."
         }
 
-unit = CyborgEngineer()
+unit = DataEngineer()
 unit.uplink_status()
 # OUTPUT: All systems nominal. Unit ready for deployment.
 ```
@@ -123,45 +121,6 @@ unit.uplink_status()
 
 </div>
 
-### `// ACTIVE MISSION DEPLOYMENTS`
-
-```
-┌─[MISSION_01]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : REAL-TIME STOCK MARKET STREAMER                    │
-│  ◈ SERVOS    : AlphaVantage → Kafka → PySpark Streaming → ΔLake  │
-│  ◈ PLATFORM  : Confluent Cloud ✦ Databricks                       │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_02]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : FINANCIAL FRAUD DETECTION — ELT UNIT               │
-│  ◈ SERVOS    : AWS S3 → Glue → Athena                             │
-│  ◈ PLATFORM  : Amazon Web Services                                │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_03]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : HEALTHCARE ANALYTICS WAREHOUSE                     │
-│  ◈ SERVOS    : Snowflake (Star Schema) ✦ AWS S3                   │
-│  ◈ PLATFORM  : Snowflake Cloud                                    │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_04]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : WEATHER DATA PIPELINE                              │
-│  ◈ SERVOS    : AWS Glue + S3 + Python                             │
-│  ◈ PLATFORM  : Amazon Web Services                                │
-│  ◈ INTEGRITY : ████████████████░░░░░░░░  68%  🔧 CALIBRATING...  │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[MISSION_05]──────────────────────────────────────────────────────┐
-│  ◈ CODENAME  : E-COMMERCE ETL BATCH ENGINE                        │
-│  ◈ SERVOS    : Databricks + Delta Lake                            │
-│  ◈ PLATFORM  : Databricks                                         │
-│  ◈ INTEGRITY : ████████████████████████ 100%  ✅ OPERATIONAL      │
-└───────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
@@ -204,37 +163,6 @@ unit.uplink_status()
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  ⚙  DIRECTIVE QUEUE — /proc/objectives  ⚙               │
-│  > PARSE: ./mission_brief --unit=FAIZAN                  │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-```bash
-╔══ UNIT OBJECTIVE QUEUE ════════════════════════════════════╗
-║                                                            ║
-║  [⚙] SQL Calibration — StrataScratch Protocol             ║
-║      ├── Phase 2: Joins · Aggregations · Null Ops  ✅     ║
-║      └── Phase 3: Window Functions · Ranking       ⏳     ║
-║                                                            ║
-║  [⚙] Pipeline Construction — Active Builds                ║
-║      ├── Weather Pipeline  (AWS Glue)              ⏳     ║
-║      └── Healthcare DWH    (Snowflake + Streamlit) ⏳     ║
-║                                                            ║
-║  [◉] DEPLOYMENT UPLINK — Internship Search                 ║
-║      ├── Sectors: Jaipur │ Noida │ Gurugram               ║
-║      └── Status : UNIT AVAILABLE — DEPLOY ANYTIME         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
 │  ⚙  COMM ARRAY — establish_uplink.sh  ⚙                 │
 │  > OPEN: ./connect --all-channels                        │
 └──────────────────────────────────────────────────────────┘
@@ -245,17 +173,6 @@ unit.uplink_status()
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d)](mailto:your@email.com)
 
 <br/>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   "I am not just a coder.                                    │
-│    I am the machine that builds machines for data."          │
-│                                                              │
-│                            — Unit FAIZAN, Jaipur Sector      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ```
 [SYS] Uplink closed.
