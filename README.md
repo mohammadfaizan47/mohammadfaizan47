@@ -8,7 +8,6 @@
 <img src="https://raw.githubusercontent.com/mohammadfaizan47/mohammadfaizan47/main/terminator_1.gif" width="100px"/>
 </div>
 <div align="center">
-
 ```
         ┌────────────────────────────────────────────────────┐
         │                                                    │
