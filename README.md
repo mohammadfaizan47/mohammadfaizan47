@@ -55,8 +55,7 @@
 class DataEngineer:
 
     def __init__(self):
-        self.designation  = "Mohammad Faizan"
-        self.unit_id      = "mohammadfaizan47"
+        self.unit_name  = "Mohammad Faizan"
         self.base         = "Jaipur, Rajasthan 🇮🇳"
         self.primary_role = "Data Engineer"
         self.actuators    = ["Data Pipelines", "Cloud ETL", "Stream Processing"]
