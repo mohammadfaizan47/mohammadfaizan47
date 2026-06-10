@@ -152,7 +152,7 @@ unit.uplink_status()
 └──────────────────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0d0d)](https://linkedin.com/in/mohammadfaizan47)
+[<img src="https://cdn.brandfetch.io/idlBEbHDMH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1740228218946" height="28">![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logoColor=00FF41&labelColor=0d0d0d)](https://linkedin.com/in/mohammadfaizan47)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d)](mailto:mohammadfaizan0411@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=0d0d0d)](https://leetcode.com/u/MohammadFaizan47/)
 [<img src="https://cdn.brandfetch.io/idld0Ig8Yj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1740228218946" height="28">](https://platform.stratascratch.com/user/MohammadFaizan) [![StrataScratch](https://img.shields.io/badge/STRATASCRATCH-0d0d0d?style=for-the-badge&logoColor=00FF41&labelColor=0d0d0d)](https://platform.stratascratch.com/user/MohammadFaizan)
