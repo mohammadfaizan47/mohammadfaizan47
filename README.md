@@ -137,7 +137,19 @@ unit.uplink_status()
 
 [![Faizan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadfaizan47&theme=high-contrast&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false)](https://github.com/mohammadfaizan47)
 
+<div align="center">
+
+<table border="1" bordercolor="#00FF41" style="border:2px solid #00FF41; border-radius:6px; padding:10px;">
+<tr><td align="center">
+
+**`Mohammad Faizan's Activity Heatmap`**
+
 <img src="https://ghchart.rshah.org/00cc44/mohammadfaizan47" alt="Faizan's GitHub Contribution Chart" width="100%"/>
+
+</td></tr>
+</table>
+
+</div>
 
 </div>
 
