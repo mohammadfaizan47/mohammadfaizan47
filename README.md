@@ -120,7 +120,7 @@ unit.uplink_status()
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadfaizan47&theme=github_dark" />
+<img src="https://streak-stats.demolab.com/?user=mohammadfaizan47&theme=matrix&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&sideNums=00FF41&currStreakNum=00FF41&stroke=00FF41&border=00FF41&v=20260614" />
 
 </div>
 
