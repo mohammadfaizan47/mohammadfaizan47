@@ -116,7 +116,7 @@ unit.uplink_status()
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide=jupyter+notebook&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&border_color=00FF41&langs_count=10" />
 
 <br/>
 
