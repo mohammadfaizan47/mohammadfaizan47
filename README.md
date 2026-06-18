@@ -113,7 +113,7 @@ unit.uplink_status()
 │  > PING: ./fetch_metrics --live                          │
 └──────────────────────────────────────────────────────────┘
 ```
-[![Trophy](https://github-profile-trophy47-xi.vercel.app/?username=mohammadfaizan47&theme=matrix&no-bg=true&margin-w=4&rank=A,C,B,SECRET)](https://github.com/mohammadfaizan47)
+[![Trophy](https://github-profile-trophy47-xi.vercel.app/?username=mohammadfaizan47&theme=matrix&no-bg=true&margin-w=4&border-color=00FF41)](https://github.com/mohammadfaizan47)
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mohammadfaizan47&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true" />
 
