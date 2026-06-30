@@ -35,7 +35,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/mohammadfaizan47?label=Followers&style=for-the-badge&color=00FF41&labelColor=0d0d0d&logo=github)](https://github.com/mohammadfaizan47)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadfaizan47&style=for-the-badge&color=00FF41&label=UNIT+SCANS&abbreviated=true)
 
 </div>
