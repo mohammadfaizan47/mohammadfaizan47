@@ -117,7 +117,7 @@ unit.uplink_status()
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammadfaizan47&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&border_color=00FF41&langs_count=10" />
 
 <br/>
-
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 ---
