@@ -163,7 +163,6 @@ unit.uplink_status()
 [SYS] Next boot: when the next pipeline needs building.
       ■■■■■■■■■■■■■■■■■■■■  POWERED DOWN.
 ```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=0d0d0d"/>
 
 </div>
