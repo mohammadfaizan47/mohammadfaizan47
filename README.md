@@ -21,7 +21,7 @@
         │                                                    │
         │   ◉ UNIT: MOHAMMAD FAIZAN                          │
         │   ◉ CLASS: DATA ENGINEER                           │
-        │   ◉ NEURAL CORE: [ ACTIVE ]                        │
+        │   ◉ NEURAL CORE: [ACTIVE]                          │
         │   ◉ SERVO STATUS: ALL SYSTEMS NOMINAL              │
         │                                                    │
         │   [CPU] [##################--] 98%  [ONLINE]       │
