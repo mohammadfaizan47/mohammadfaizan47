@@ -31,7 +31,7 @@
         └────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+unit+FAIZAN...;%5BSYS%5D+Loading+data+engineering+modules...;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Data+Engineer+%7C+Pipeline+Architect;%24+mission+--+Turn+Raw+Data+Into+Value" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+unit+FAIZAN...;%5BSYS%5D+Loading+data+engineering+modules...;%5BSYS%5D+Connecting+to+AWS+%2F+Kafka+%2F+Snowflake...;%5BSYS%5D+Actuators+READY.+Pipelines+ARMED.;%24+whoami+--+Data+Engineer+%7C+Pipeline+Architect;%24+mission+--+Turn+Raw+Data+Into+Valueable+Asset" alt="Typing SVG" />
 
 <br/>
 </div>
